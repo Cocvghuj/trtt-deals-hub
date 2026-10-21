@@ -1,3 +1,4 @@
+<img width="2048" height="1152" alt="Banner" src="https://github.com/user-attachments/assets/b22aa9b8-5901-4912-8252-d9eebbac43ef" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC2,100:0072FF&height=280&section=header&text=TRTT%20Global%20Deals%20Hub&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Sanluri,%20Sardinia%20-%20Italy%20%3C%3E%20BD&descAlignY=55" />
 </p>
