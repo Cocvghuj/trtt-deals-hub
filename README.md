@@ -1,4 +1,5 @@
-type=waving&color=0:00FFC2,100:0072FF&height=280&section=header&text=TRTT%20Global%20Deals%20Hub&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Sanluri,%20Sardinia%20-%20Italy%20%3C%3E%20BD&descAlignY=55" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC2,100:0072FF&height=280&section=header&text=TRTT%20Global%20Deals%20Hub&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Sanluri,%20Sardinia%20-%20Italy%20%3C%3E%20BD&descAlignY=55" />
 </p>
 
 <h1 align="center"><b>🔥 LIVE FROM SANLURI - 39.5618° N, 8.9000° E 🔥</b></h1>
@@ -42,6 +43,4 @@ A REAL STORY FROM SANLURI LIVES FOREVER.</b></h2>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00FFC2&height=120&section=footer&text=From%20Sanluri%20With%20Love%20-%20TRTT&fontSize=24&fontColor=fff&animation=fadeIn" />
-</p><img width="2048" height="1152" alt="Banner" src="https://github.com/user-attachments/assets/d1b50b2f-3134-4d20-a026-a6bf58a16123" />
-
-
+</p>
