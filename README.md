@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC2,100:0072FF&height=280&section=header&text=TRTT%20Global%20Deals%20Hub&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Sanluri,%20Sardinia%20-%20Italy%20%3C%3E%20BD&descAlignY=55" />
+type=waving&color=0:00FFC2,100:0072FF&height=280&section=header&text=TRTT%20Global%20Deals%20Hub&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Sanluri,%20Sardinia%20-%20Italy%20%3C%3E%20BD&descAlignY=55" />
 </p>
 
 <h1 align="center"><b>🔥 LIVE FROM SANLURI - 39.5618° N, 8.9000° E 🔥</b></h1>
