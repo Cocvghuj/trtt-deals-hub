@@ -86,4 +86,4 @@ FROM SANLURI WITH LOVE - TRTT<br>
 </div>
 
 </body>
-</html><img width="2048" height="1152" alt="Banner" src="https://github.com/user-attachments/assets/dbdbab09-131a-4075-86ca-726cff9084a3" />
+</html>
